@@ -48,6 +48,11 @@
    <td><a href="https://omidsakaki.ir/projects/30" target="_blank" rel="noreferrer">Image Classification</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/pretrained-models-for-tire-quality-classification.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
   </tr>
+    <tr>
+    <td>Automated Car Damage Detection and Segmentation Using UNet</td>
+   <td><a href="https://omidsakaki.ir/projects/51" target="_blank" rel="noreferrer">Object Detection</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Automated_Car_Damage_Detection_and_Segmentation_Using_U_Net.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 <hr />
