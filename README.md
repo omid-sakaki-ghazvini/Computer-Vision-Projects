@@ -63,6 +63,11 @@
    <td><a href="https://omidsakaki.ir/projects/69" target="_blank" rel="noreferrer">Image Segmentation</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Comparative_Evaluation_of_UNet_and_UNet%2B%2B_for_Brain_Tumor_Segmentation.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td>Deep Learning For Computer Vision</td>
+   <td><a href="https://omidsakaki.ir/educations/26" target="_blank" rel="noreferrer">Image Classification</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Machine-Learning/blob/main/Deep%20Learning%20For%20Computer%20Vision.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 <hr />
