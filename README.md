@@ -83,6 +83,11 @@
    <td><a href="https://omidsakaki.ir/projects/42" target="_blank" rel="noreferrer">Image Search</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Semantic_Image_Search_System_with_CLIP.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td>Vision Transformers (VIT) Handwritten Persian</td>
+   <td><a href="https://omidsakaki.ir/projects/72" target="_blank" rel="noreferrer">Image Classification</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/lora-finetuned-vit-model-for-food-recognition.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 <hr />
