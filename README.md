@@ -1,5 +1,5 @@
-<h1 align="left">computer vision projects</h1>
-<h4 align="left">computer vision projects with TensorFlow and PyTorch in Jupyter Notebooks.</h4>
+<h1 align="left">Computer Vision Projects</h1>
+<h4 align="left">Computer Vision Projects with TensorFlow and PyTorch in Jupyter Notebooks.</h4>
 <p align="left">
  <table>
   <tr>
@@ -77,6 +77,11 @@
     <td>Multimodal Biometric Recognition System</td>
    <td><a href="https://omidsakaki.ir/projects/37" target="_blank" rel="noreferrer">Image Classification</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/multimodal-biometric-recognition-system.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
+  </tr>
+   <tr>
+    <td>Semantic Image Search System with CLIP</td>
+   <td><a href="https://omidsakaki.ir/projects/42" target="_blank" rel="noreferrer">Image Search</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Semantic_Image_Search_System_with_CLIP.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
  </table>
  </p>
