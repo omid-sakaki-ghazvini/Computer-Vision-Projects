@@ -73,6 +73,11 @@
    <td><a href="https://omidsakaki.ir/projects/72" target="_blank" rel="noreferrer">Image Classification</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/lora-finetuned-vit-model-for-food-recognition.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td>Multimodal Biometric Recognition System</td>
+   <td><a href="https://omidsakaki.ir/projects/37" target="_blank" rel="noreferrer">Image Classification</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/multimodal-biometric-recognition-system.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 <hr />
