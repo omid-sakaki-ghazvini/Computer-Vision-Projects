@@ -85,8 +85,8 @@
   </tr>
   <tr>
     <td>Vision Transformers (VIT) Handwritten Persian</td>
-   <td><a href="https://omidsakaki.ir/projects/72" target="_blank" rel="noreferrer">Image Classification</a></td>
-   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/lora-finetuned-vit-model-for-food-recognition.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+   <td><a href="https://omidsakaki.ir/projects/15" target="_blank" rel="noreferrer">Image Classification</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/vision-transformers-handwritten-persian.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
  </table>
  </p>
