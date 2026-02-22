@@ -1,5 +1,5 @@
 <h1 align="left">Computer Vision Projects</h1>
-<h4 align="left">Computer Vision Projects with TensorFlow and PyTorch in Jupyter Notebooks.</h4>
+<h4 align="left">Image Processing & Computer Vision & GANs Projects with TensorFlow and PyTorch in Jupyter Notebooks.</h4>
 <p align="left">
  <table>
   <tr>
