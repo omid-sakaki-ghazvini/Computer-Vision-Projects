@@ -13,6 +13,11 @@
    <td><a href="https://omidsakaki.ir/projects/1" target="_blank" rel="noreferrer">Image Classification</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Alzheimer_prj.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
   </tr>  
+  <tr>
+    <td>Comparative Analysis of Pose Estimation MediaPipe vs MoveNet</td>
+   <td><a href="https://omidsakaki.ir/projects/53" target="_blank" rel="noreferrer">Image Classification</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Comparative_Analysis_of_Pose_Estimation_MediaPipe_vs_MoveNet.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
+  </tr> 
    <tr>
     <td>Gender and Age Prediction</td>
    <td><a href="https://omidsakaki.ir/projects/9" target="_blank" rel="noreferrer">Image Classification</a></td>
