@@ -59,6 +59,11 @@
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/background-removal-with-u2net.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"  width="40" height="40"/> </a></td>
   </tr>
   <tr>
+    <td>AI Powered Video Style Transfer</td>
+   <td><a href="https://omidsakaki.ir/projects/39" target="_blank" rel="noreferrer">GAN</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/AI_Powered_Video_Style_Transfer.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
     <td>Pretrained Models for Tyre Quality Classification</td>
    <td><a href="https://omidsakaki.ir/projects/30" target="_blank" rel="noreferrer">Image Classification</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/pretrained-models-for-tire-quality-classification.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
