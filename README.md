@@ -11,7 +11,7 @@
   <tr>
     <td>opencv</td>
    <td><a href="https://omidsakaki.ir/educations/19" target="_blank" rel="noreferrer">Image Processing</a></td>
-   <td><a href="https://github.com/omid-sakaki-ghazvini/Educations/blob/main/opencv.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Educations/blob/main/opencv.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a></td>
   </tr>
   <tr>
     <td>Alzheimer Classification</td>
@@ -26,7 +26,7 @@
   <tr>
     <td>Object Removal from Images Using Inpainting and Masking Techniques</td>
    <td><a href="https://omidsakaki.ir/practices/19" target="_blank" rel="noreferrer">Image Processing</a></td>
-   <td><a href="https://github.com/omid-sakaki-ghazvini/Practices/blob/main/Object_Removal_from_Images_Using_Inpainting_and_Masking_Techniques.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Practices/blob/main/Object_Removal_from_Images_Using_Inpainting_and_Masking_Techniques.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a></td>
   </tr>
   <tr>
     <td>Comparative Analysis of Pose Estimation MediaPipe vs MoveNet</td>
@@ -37,6 +37,11 @@
     <td>Face Image Generation and Comparison Using Advanced AI Models</td>
    <td><a href="https://omidsakaki.ir/projects/47" target="_blank" rel="noreferrer">GAN</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Face_Image_Generation_and_Comparison_Using_Advanced_AI_Models.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
+    <td>Contour Detection and Measure Size of a fire Using Python OpenCV</td>
+   <td><a href="https://omidsakaki.ir/practices/14" target="_blank" rel="noreferrer">Image Processing</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Contour-Detection-and-Measure-Size-of-a-fire-Using-Python-OpenCV/blob/master/Contour_Detection_and_Measure_Size_of_a_fire.py" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a></td>
   </tr>
    <tr>
     <td>Gender and Age Prediction</td>
