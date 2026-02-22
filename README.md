@@ -19,6 +19,11 @@
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/handwritten-persian-numerals-cyclegans-pytorch.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
   <tr>
+    <td>Object Removal from Images Using Inpainting and Masking Techniques</td>
+   <td><a href="https://omidsakaki.ir/practices/19" target="_blank" rel="noreferrer">Image Processing</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Practices/blob/main/Object_Removal_from_Images_Using_Inpainting_and_Masking_Techniques.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
     <td>Comparative Analysis of Pose Estimation MediaPipe vs MoveNet</td>
    <td><a href="https://omidsakaki.ir/projects/53" target="_blank" rel="noreferrer">Image Classification</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Comparative_Analysis_of_Pose_Estimation_MediaPipe_vs_MoveNet.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
