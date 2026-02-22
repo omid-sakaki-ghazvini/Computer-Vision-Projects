@@ -29,6 +29,11 @@
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/gender-and-age-prediction.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"  width="40" height="40"/> </a></td>
   </tr>
   <tr>
+    <td>AI Powered Image to Video Converter Using Stable Diffusion</td>
+   <td><a href="https://omidsakaki.ir/projects/41" target="_blank" rel="noreferrer">GAN</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/AI_Powered_Image_to_Video_Converter_Using_Stable_Diffusion.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
     <td>City Scapes Image Segmentation with Unet</td>
    <td><a href="https://omidsakaki.ir/projects/10" target="_blank" rel="noreferrer">Image Segmentation</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/cityscapes-image-segmentation-with-unet.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow"  width="40" height="40"/> </a></td>
