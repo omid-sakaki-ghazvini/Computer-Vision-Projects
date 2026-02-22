@@ -84,6 +84,11 @@
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Automated_Car_Damage_Detection_and_Segmentation_Using_U_Net.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
   <tr>
+    <td>Steganography with Stable Diffusion</td>
+   <td><a href="https://omidsakaki.ir/projects/43" target="_blank" rel="noreferrer">GAN</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Steganography_with_Stable_Diffusion.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
     <td>Bone Fracture Detection Using Attention-Based CNN</td>
    <td><a href="https://omidsakaki.ir/projects/60" target="_blank" rel="noreferrer">Image Classification</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Bone%20Fracture%20Detection%20Using%20Attention-Based%20CNN.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
