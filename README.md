@@ -44,6 +44,11 @@
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/fashion-mnist-pytorch.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
   <tr>
+    <td>Generative AI Face Image dcgans cyclegans</td>
+   <td><a href="https://omidsakaki.ir/projects/29" target="_blank" rel="noreferrer">GAN</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/generative-ai-face-image-dcgans-cyclegans.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
     <td>Faster RCNN Object Detection with pytorch</td>
    <td><a href="https://omidsakaki.ir/projects/13" target="_blank" rel="noreferrer">Object Detection</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/faster-rcnn-object-detection-with-pytorch.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
