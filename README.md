@@ -18,6 +18,11 @@
    <td><a href="https://omidsakaki.ir/projects/53" target="_blank" rel="noreferrer">Image Classification</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Comparative_Analysis_of_Pose_Estimation_MediaPipe_vs_MoveNet.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
   </tr> 
+  <tr>
+    <td>Face Image Generation and Comparison Using Advanced AI Models</td>
+   <td><a href="https://omidsakaki.ir/projects/47" target="_blank" rel="noreferrer">GAN</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Face_Image_Generation_and_Comparison_Using_Advanced_AI_Models.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
    <tr>
     <td>Gender and Age Prediction</td>
    <td><a href="https://omidsakaki.ir/projects/9" target="_blank" rel="noreferrer">Image Classification</a></td>
