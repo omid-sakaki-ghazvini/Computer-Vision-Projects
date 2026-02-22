@@ -12,7 +12,12 @@
     <td>Alzheimer Classification</td>
    <td><a href="https://omidsakaki.ir/projects/1" target="_blank" rel="noreferrer">Image Classification</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/Alzheimer_prj.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
-  </tr>  
+  </tr>
+  <tr>
+    <td>Handwritten Persian Numerals CycleGANs Pytorch</td>
+   <td><a href="https://omidsakaki.ir/projects/25" target="_blank" rel="noreferrer">GAN</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/handwritten-persian-numerals-cyclegans-pytorch.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
   <tr>
     <td>Comparative Analysis of Pose Estimation MediaPipe vs MoveNet</td>
    <td><a href="https://omidsakaki.ir/projects/53" target="_blank" rel="noreferrer">Image Classification</a></td>
