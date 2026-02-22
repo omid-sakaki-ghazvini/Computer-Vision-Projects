@@ -128,6 +128,11 @@
    <td><a href="https://omidsakaki.ir/projects/15" target="_blank" rel="noreferrer">Image Classification</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/vision-transformers-handwritten-persian.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
+  <tr>
+    <td>AI Image Generation from Persian Prompts with Stable Diffusion</td>
+   <td><a href="https://omidsakaki.ir/projects/34" target="_blank" rel="noreferrer">GAN</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/AI_Image_Generation_from_Persian_Prompts_with_Stable_Diffusion.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
+  </tr>
  </table>
  </p>
 <hr />
