@@ -64,6 +64,11 @@
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/fashion-mnist-pytorch.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a></td>
   </tr>
   <tr>
+    <td>Persian Text Detection</td>
+   <td><a href="https://omidsakaki.ir/practices/15" target="_blank" rel="noreferrer">Image Processing</a></td>
+   <td><a href="https://github.com/omid-sakaki-ghazvini/Persian_Text_Detection/blob/master/Persian_Text_Detection.py" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a></td>
+  </tr>
+  <tr>
     <td>Generative AI Face Image dcgans cyclegans</td>
    <td><a href="https://omidsakaki.ir/projects/29" target="_blank" rel="noreferrer">GAN</a></td>
    <td><a href="https://github.com/omid-sakaki-ghazvini/Projects/blob/main/generative-ai-face-image-dcgans-cyclegans.ipynb" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></td>
